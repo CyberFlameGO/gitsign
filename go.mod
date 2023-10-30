@@ -46,7 +46,7 @@ require (
 	github.com/cyberphone/json-canonicalization v0.0.0-20210823021906-dc406ceaf94b // indirect
 	github.com/docker/cli v20.10.12+incompatible // indirect
 	github.com/docker/distribution v2.8.0+incompatible // indirect
-	github.com/docker/docker v20.10.12+incompatible // indirect
+	github.com/docker/docker v24.0.7+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/emirpasic/gods v1.12.0 // indirect
